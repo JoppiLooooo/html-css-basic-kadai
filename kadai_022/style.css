@@ -79,7 +79,7 @@ footer a:hover{
     font-size: 25px;
   }
 
-  #parents{
+  #parent{
     flex-direction: column;
   }
 }
